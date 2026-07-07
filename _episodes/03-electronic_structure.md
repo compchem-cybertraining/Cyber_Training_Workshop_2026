@@ -388,3 +388,33 @@ The `QUEST/` directory contains a spreadsheet of QUEST reference data:
 QUEST/QUEST-All.xlsx
 ```
 
+
+# 9. Presentations and Videorecordings
+
+## 9.1. Presentations 
+
+[Presentation 1](../files/Sokolov/presentation.pdf)
+
+
+## 9.2. Classroom recording
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+  <iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=d700e681-d48b-4c5c-831f-b44401019deb
+  &autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" 
+  style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" 
+  allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="CyberTraining 2026, Tuesday, July 7"></iframe>
+</div>
+
+## 9.3. Zoom recordings
+
+Unfortunately, only morning session was recorded this way
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+  <iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=0622e097-3982-41f1-8e4b-b480011f5c04
+  &autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" 
+  style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" 
+  allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="CyberTraining 2026, Tuesday morning"></iframe>
+</div>
+
+
+
