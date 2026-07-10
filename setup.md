@@ -187,5 +187,13 @@ Meeting ID: 918 7009 3938
 Passcode: 302084
 
 
+### Topic: CyberTraining 2026, Friday afternoon
+Time: Jul 10, 2026 01:30 PM Eastern Time (US and Canada)
+Join Zoom Meeting
+https://buffalo.zoom.us/j/93643155301?pwd=nank8sR2ME0eiurcaB93RHSzSvieRA.1
+Meeting ID: 936 4315 5301
+Passcode: 429643
+
+
 
 {% include links.md %}
