@@ -204,14 +204,46 @@ located at `/projects/academic/cyberwksp21/Students/<my working folder>`
 
 # 4. Presentations and Videorecordings
 
-## 4.1. Thursday, July 9, Morning
+## 4.1. Presentations
 
 [Libra Overview, simplified introduction into TSH methods](../files/Akimov/2026_July9-parts-1-3.pdf)
 
 [Algorithms, methods and options for Libra](../files/Akimov/2026_July9-part-4.pdf)
 
 
+## 4.2. Classroom recording
 
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+  <iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=8cb37794-ccc3-407d-82d5-b44401019d22
+  &autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" 
+  style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" 
+  allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="CyberTraining 2026, Thursday, July 9 (morning)"></iframe>
+</div>
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+  <iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=4f746e66-96d9-4077-b754-b48100ddfae3
+  &autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" 
+  style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" 
+  allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="CyberTraining 2026, Thursday, July 9 (afternoon)"></iframe>
+</div>
+
+
+## 4.3. Zoom recordings
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+  <iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=da6c95bc-f1a9-428c-b8dd-b48201259501
+  &autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" 
+  style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" 
+  allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Zoom: CyberTraining 2026, Thursday morning"></iframe>
+</div>
+
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+  <iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e4846b3e-f590-4a11-b6ee-b48201756fa9
+  &autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" 
+  style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" 
+  allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Zoom: CyberTraining 2026, Thursday afternoon"></iframe>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Ab Initio Multiple Spawning: Electronic Structure and Nonadiabatic Dynamics"
+title: "5. Ab Initio Multiple Spawning: Electronic Structure and Nonadiabatic Dynamics"
 questions:
   - "What electronic-structure methods describe excited states and conical intersections?"
   - "How does Ab Initio Multiple Spawning (AIMS) propagate nuclear wavepackets through them?"
@@ -79,15 +79,7 @@ Topics covered:
 
 These methods map directly onto the hands-on examples in the next section.
 
-### 1.1. Slides
-
-_(to be added)_
-
-### 1.2. Videorecording of the session
-
-_(to be added)_
-
-### 1.3. Reference reading
+### Reference reading
 
 - Per-example READMEs in the [Tutorials_OpenMolcas](https://github.com/compchem-cybertraining/Tutorials_OpenMolcas) repository.
 - PySpawn-OpenMolcas interface: Ibele, Mehmood, Levine, Avagliano, *J. Chem. Theory Comput.* (2024), [doi:10.1021/acs.jctc.4c00855](https://doi.org/10.1021/acs.jctc.4c00855).
@@ -162,15 +154,7 @@ Topics covered:
 - **On-the-fly electronic structure**: how PySpawn calls OpenMolcas at each step for energies,
   forces, and wavefunctions, via the interface paper above.
 
-### 3.1. Slides
-
-_(to be added)_
-
-### 3.2. Videorecording of the session
-
-_(to be added)_
-
-### 3.3. Reference reading
+### Reference reading
 
 - Ben-Nun, Quenneville & Martinez, *J. Phys. Chem. A* **104**, 5161 (2000), [doi:10.1021/jp994174i](https://doi.org/10.1021/jp994174i).
 - Ben-Nun & Martinez, *J. Chem. Phys.* **108**, 7244 (1998), [doi:10.1063/1.476142](https://doi.org/10.1063/1.476142).
@@ -225,6 +209,47 @@ Follow the repository README and each folder's instructions in
 - Run `analysis.py` on a trajectory and plot the total electronic populations and an energy
   conservation check.
 - Extract and plot the ensemble S1 population decay (use the provided reference data if needed).
+
+
+## 5. Presentations and Videorecordings
+
+### 5.1. Presentations
+
+
+### 5.2. Classroom recording
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+  <iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e11093a3-7d2f-41e4-bfca-b48100db8a07
+  &autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" 
+  style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" 
+  allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Cyber Training 2026, Wednesday, July 8 (morning)"></iframe>
+</div>
+
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+  <iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=edaabd86-9607-49b2-8e13-b48100dc0014
+  &autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" 
+  style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" 
+  allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="CyberTraining 2026, Wednesday, July 8 (afternoon)"></iframe>
+</div>
+
+
+### 5.3. Zoom recordings
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+  <iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=666c4248-0bae-4172-bcb9-b4810131d922
+  &autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" 
+  style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" 
+  allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Zoom: CyberTraining 2026, Wednesday morning"></iframe>
+</div>
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+  <iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=1aaf5e8f-1787-4a89-b48a-b48101824854
+  &autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" 
+  style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" 
+  allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Zoom: CyberTraining 2026, Wednesday afternoon"></iframe>
+</div>
+
 
 ---
 
