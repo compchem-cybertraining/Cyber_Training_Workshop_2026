@@ -38,5 +38,34 @@ Capstone Project: Entanglement Sudden Death
 
 ### 2.2. Classroom recording
 
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+  <iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=98ae9249-1a85-4db4-a541-b48100dcc016
+  &autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" 
+  style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" 
+  allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="CyberTraining 2026, Friday, July 10 (morning)"></iframe>
+</div>
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+  <iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=ba43ab83-7c11-4d37-95c1-b48100dcf8ba
+  &autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" 
+  style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" 
+  allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="CyberTraining 2026, Friday, July 10 (afternoon)"></iframe>
+</div>
+
 
 ### 2.3. Zoom recordings
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+  <iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=4382982d-0d6a-43b6-a0cd-b48301148cab
+  &autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" 
+  style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" 
+  allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Zoom: CyberTraining 2026, Friday morning"></iframe>
+</div>
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+  <iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=69acbc1e-cbbc-4ece-93cc-b483015fd2f8
+  &autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" 
+  style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" 
+  allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Zoom: CyberTraining 2026, Friday afternoon"></iframe>
+</div>
+
