@@ -36,6 +36,7 @@ root: .
 | --------------- | ------------------- | -------------------------- |
 | Dr. Mohammad Shakiba   |  University at Buffalo, US | Co-instructor for: **Libra, CP2K** |
 | Mr. Juan Camilo Rodriguez Betancourt | University of Rochester, US | Co-instructor for: **TENSO** |
+| Ms. Michelle Anderson | University of Rochester, US | Co-instructor for: **TENSO** |
 
 ### The UB Center for Computational Research team
 

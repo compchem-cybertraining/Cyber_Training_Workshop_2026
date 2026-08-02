@@ -41,10 +41,16 @@ July 24-26 (the exact dates are to be determined). The presentations will be vid
 
 # 2. Guidelines and scoring criteria 
 
-To be added
+Distributed over Slack
 
 
 # 3. Videorecordings
 
-To be added
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+  <iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=ca292581-6ef4-47dc-9610-b49201031a3c
+  &autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" 
+  style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" 
+  allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="CyberTraining summer school projects presentation"></iframe>
+</div>
+
 
